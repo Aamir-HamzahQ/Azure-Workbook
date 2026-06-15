@@ -175,6 +175,12 @@ Example insights include:
 - Product performance  
 - Inventory forecasting  
 
+<img width="379" height="214" alt="image" src="https://github.com/user-attachments/assets/ac5f5c3c-6cac-49b7-b486-cc03966fb534" />
+
+
+### 🧩 Visual Query in Azure Lakehouse  
+Interactive SQL query built in Microsoft Fabric’s Lakehouse environment, showing grouped sales data and letter count analysis. Demonstrates visual query design and data exploration without raw SQL coding.
+
 ---
 
 ## 📈 Scalability & Future Growth
